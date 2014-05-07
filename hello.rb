@@ -1,5 +1,5 @@
 require 'greeter'
-#Test
+#Test II
 puts "What's your name"
 my_name = gets.strip
 
